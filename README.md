@@ -16,7 +16,7 @@ It also classifies the **coronary artery disease stage** based on the EF:
 1. Clone the repo:
 git clone https://github.com/talha-11-11/ejection_fraction.git
 cd cad-stage-predictor
-2. Install dependencies
+3. Install dependencies
 pip install -r requirements.txt
-3. Run the app
+4. Run the app
 streamlit run app.py
